@@ -1,2 +1,3 @@
 # Cadet
-The cadet programming language
+The official repository for the cadet programming language
+
