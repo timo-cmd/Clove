@@ -1,7 +1,7 @@
 {
   "name": "clove",
   "version": "0.0.3",
-  "description": "An experimental virtual machine running on adaptive neuronal networks. Built of an official research-project.",
+  "description": ".",
   "main": "build/main/run.js",
   "dependencies": {
     "babel-preset-es2015": "^6.1.18",
