@@ -3,7 +3,7 @@
 
   **A class-based, object-oriented programming language**
 
-**This is README for `2.1` version of Clove (JS based). README for `1.x` version is on the branch [v1.x]()**
+**This is README for `2.1` version of Clove (JS based).**
 
 <img src="https://raw.githubusercontent.com/Clove-lang/Clove/master/screen.png" height="350"></img>
 
