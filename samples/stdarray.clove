@@ -1,4 +1,6 @@
-// A simple array implementation in clove.
+// A simple linked-list implementation in clove.
+class array {
+
     var head: Node = new Node("head")
 
     func add(e: Object): Array = {
@@ -133,3 +135,4 @@ class Node(data: Object) {
             str + node.data() + "]"
         }
     }
+}
