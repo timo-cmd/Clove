@@ -16,7 +16,12 @@
 - 
 
 ## Roadmap
-  - [x] 
+  - [x] Math stdlib
+  - [x] IO module
+  - [x] Complex float numbers
+  - [ ] Source-to-Source interpreter 
+  - [ ] Multi-Threading system
+  - [x] Strong-typed, fast typechecker
 
 ## Releases
 **Important:** 
