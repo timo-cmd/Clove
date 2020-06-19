@@ -5,8 +5,6 @@
 
 **This is README for `2.1` version of Clove (JS based).**
 
-<img src="https://raw.githubusercontent.com/Clove-lang/Clove/master/screen.png" height="350"></img>
-
 
 [<img alt="Deploy to Github" src="http://i.imgur.com/YZmaqk3.png" height="60px">](-)  [<img alt="Customization services" src="http://i.imgur.com/c4sUF7M.png" height="60px">]()
 
