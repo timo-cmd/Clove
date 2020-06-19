@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Clove" src="" width="400px" />
+  <img alt="Clove" src="https://raw.githubusercontent.com/Clove-lang/clove-assets/master/clove-banner.png" width="400px" />
 
   **A class-based, object-oriented programming language**
 
